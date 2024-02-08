@@ -12,7 +12,7 @@
 Educadora na ONG [Elas+](https://www.instagram.com/fundoelas/)\
 Palestrante Tech\
 Saiba mais sobre mim:\
-[![pivetadev](https://img.shields.io/website?label=pivetadev.com&style=for-the-badge&url=https://beacons.ai/pivetadev/)](https://https://beacons.ai/pivetadev)
+[![pivetadev](https://img.shields.io/website?label=pivetadev.com&style=for-the-badge&url=https://beacons.ai/pivetadev/)](https://beacons.ai/pivetadev)
 
 Sou apaixonada por compartilhar o que venho aprendendo em linguagem acessível para que todes possam compreender, desde aqueles que estão iniciando até pessoas não tão familiarizadas com tecnologia. Meu objetivo é tornar o aprendizado acessível e inclusivo para todes.
 
