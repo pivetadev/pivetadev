@@ -9,7 +9,7 @@
 
 ***Conhecida por Piveta ou Pivetadev***\
 🎲 Data Lead do <strong>Dados in Rio</strong> que é uma subcomunidade dentro da [Tech in Rio](https://www.instagram.com/techinrio/)\
-Educadora na ONG [Elas+](https://www.instagram.com/fundoelas/)\
+Educadora na ONG [Pretalab(https://www.instagram.com/pretalab_/)\
 Palestrante Tech\
 Saiba mais sobre mim:\
 [![pivetadev](https://img.shields.io/website?label=pivetadev.com&style=for-the-badge&url=https://beacons.ai/pivetadev/)](https://beacons.ai/pivetadev)
